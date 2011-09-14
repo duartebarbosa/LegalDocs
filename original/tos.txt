@@ -1,0 +1,208 @@
+TERMOS DE UTILIZAÇÃO
+
+Ao contratar o serviço on-line [NOME DO SERVIÇO], que consiste num software que permite [DESCREVER 
+A FUNCIONALIDADE DO SERVIÇO] (doravante o “Serviço”), à [NOME DA EMPRESA], sociedade com sede na 
+[MORADA DA EMPRESA], pessoa colectiva número [NIF], matriculada na Conservatória do Registo Comercial 
+de [CONSERVATORIA], sob o mesmo número, com o capital social de € [CAPITAL SOCIAL] (“[NOME DA EMPRESA]”), o Utilizador fica 
+vinculado aos seguintes termos e condições (“TERMOS DE UTILIZAÇÃO”).
+
+1.	Utilização do Serviço pelo Utilizador
+
+1.1.	A [NOME DA EMPRESA] obriga-se a prestar ao Utilizador o Serviço através do sítio [URL], 
+estando a utilização de tal Serviço sujeita aos presentes Termos de Utilização. 
+
+1.2.	O Serviço só pode ser usado por Utilizadores com idade igual ou superior a 18 anos.
+
+1.3.	O Utilizador reconhece e aceita que não pode:
+
+    a)	Usar o Serviço para quaisquer fins ilícitos, fraudulentos, não autorizados ou que 
+        prejudiquem a [NOME DA EMPRESA];
+
+    b)	Usar o Serviço para fins de transmissão de e-mail, SMS ou mensagens "spam" não solicitadas;
+    c)	Utilizar qualquer processo automatizado ou serviço para aceder e/ou utilizar o serviço 
+        (como, por exemplo, um BOT ou Spider); 
+
+    d)	Autorizar o acesso ou utilização do Serviço em seu nome por parte de terceiros;
+    e)	Modificar, descompilar, desmontar, fazer engenharia reversa, copiar, vender, explorar ou 
+        por qualquer outra forma divulgar a terceiros ou tirar partido, directa ou indirectamente, dos 
+        conteúdos do Serviço ou de parte dos mesmos.  
+
+1.4.	O Utilizador é inteiramente responsável por adoptar as necessárias medidas de segurança da 
+sua conta, designadamente a manutenção de uma senha pessoal, devendo notificar imediatamente a 
+[NOME DA EMPRESA] caso tenha conhecimento de qualquer violação de segurança relacionada com o 
+Serviço. A [NOME DA EMPRESA] não será responsável por qualquer perda ou dano resultante do 
+incumprimento por parte do Utilizador das referidas medidas.
+
+1.5.	O Utilizador reconhece ser inteiramente responsável por todo o conteúdo inserido e 
+actividade que ocorra na sua conta, mesmo quando tal conteúdo seja inserido por outros utilizadores 
+que tenham acesso à sua conta, eximindo a [NOME DA EMPRESA] de todas e quaisquer eventuais 
+responsabilidades.
+
+1.6.	A [NOME DA EMPRESA] não procede a qualquer verificação da licitude dos conteúdos carregados 
+pelo Utilizador, verificação que cabe exclusivamente a este último.
+
+1.7.	A [NOME DA EMPRESA] reserva-se o direito de eliminar conteúdos carregados pelo Utilizador 
+quando tal se revelar necessário para assegurar:
+    a)	A protecção de direitos da titularidade de terceiros, no seguimento de denúncia por si 
+        apresentada;
+
+    b)	O cumprimento de ordem de tribunal ou de qualquer autoridade competente;
+    c)	A protecção de direitos de que é titular a própria [NOME DA EMPRESA];
+    d)	O cumprimento de quaisquer disposições legais imperativas, quando a [NOME DA EMPRESA] venha 
+        a ter conhecimento da sua violação pelo Utilizador.
+
+2.	Prestação do Serviço pela [NOME DA EMPRESA]
+
+2.1.	A [NOME DA EMPRESA] disponibiliza ao Utilizador o Serviço nas condições em que o mesmo se 
+encontrar em cada momento, com todas as eventuais falhas e erros, independentemente da respectiva 
+natureza, recusando expressamente qualquer tipo de garantia relativamente ao Serviço.
+
+2.2.	A [NOME DA EMPRESA] não garante que (i) o Serviço irá satisfazer as necessidades 
+específicas do Utilizador; (ii) o serviço será ininterrupto, atempado, seguro ou livre de erros; 
+(iii) os resultados que podem ser obtidos com a utilização do Serviço serão exactos ou confiáveis; 
+(iv) a qualidade dos produtos, serviços, informações ou outros materiais adquiridos ou obtidos pelo 
+Utilizador através do Serviço irá satisfazer as suas expectativas; e que (v) qualquer erro 
+existente no Serviço venha a ser obrigatoriamente corrigido.
+
+2.3.	O Serviço é prestado em linha, pelo que a [NOME DA EMPRESA] não se responsabiliza por 
+qualquer falha de conectividade e inerente impossibilidade da sua utilização.
+
+2.4.	O apoio técnico é fornecido através do correio electrónico [EMAIL], aos Utilizadores que não se 
+encontrem em mora ou incumprimento nos pagamentos.
+
+2.5.	O Utilizador aceita expressamente e assume os riscos próprios da utilização do Serviço, 
+nomeadamente a eventual ocorrência de anomalias na rede pública de comunicações que impeçam a 
+utilização do Serviço, a existência de eventuais intercepções nas comunicações, a pontual 
+indisponibilidade do serviço para efeitos de manutenção ou a eventual perda  dos dados armazenados 
+na conta do Utilizador.
+
+2.6.	O serviço prestado pela [NOME DA EMPRESA] não constitui qualquer conselho profissional 
+sobre matérias fiscais ou jurídicas, pelo que a [NOME DA EMPRESA] não assume qualquer dever de 
+prestação de tais conselhos.
+
+2.7.	A [NOME DA EMPRESA] reserva-se o direito de recusar a prestação do Serviço a qualquer 
+pessoa singular ou colectiva, com base em motivo justificado.
+
+3.	Adesão ao serviço
+
+3.1.	Para utilizar o Serviço, o proponente deve preencher o formulário de registo para abertura 
+de conta, sendo necessário indicar o nome ou firma completos, um endereço de correio electrónico 
+válido, morada, contacto, [OUTROS DADOS DE UTILIZADOR] e [OUTROS DADOS DE UTILIZADOR].
+
+3.2.	Na abertura da conta, o Utilizador escolherá a modalidade de subscrição pretendida, em 
+função da qual poderá ter acesso ou não a determinadas funcionalidades específicas do Serviço.
+
+3.3.	Caso o Utilizador detecte quaisquer erros ou incorrecções no preenchimento dos dados de 
+registo, poderá corrigi-los a todo o tempo através das funcionalidades disponíveis para o efeito no 
+Serviço.
+
+3.4.	Uma vez confirmada a adesão ao Serviço e o respectivo pagamento pela [NOME DA EMPRESA], o 
+Utilizador receberá um aviso com a confirmação da disponibilização do Serviço com vista à sua 
+utilização. O Utilizador autoriza que a partir desse momento o Serviço seja prestado.
+
+4.	Preço e pagamento do Serviço
+
+4.1.	O preço devido pela contratação do Serviço é aquele que corresponder à modalidade de 
+subscrição escolhida pelo Utilizador.
+
+4.2.	O pagamento do Serviço será efectuado através de [MODALIDADE DE PAGAMENTO].
+
+4.3.	O Serviço é cobrado antecipadamente, no início do período contratado, não havendo 
+restituições na sequência de cancelamento do Serviço pelo Utilizador.
+
+4.4.	A [NOME DA EMPRESA] reserva-se o direito de modificar a tabela de preços aplicada com aviso 
+prévio de 30 dias. Caso o Utilizador não esteja de acordo com essas modificações, deverá cancelar a 
+conta e cessar a utilização do Serviço no prazo de 10 dias a contar da notificação das 
+modificações. 
+
+5.	Suspensão, modificação ou descontinuação do Serviço
+
+5.1.	O Utilizador aceita que a [NOME DA EMPRESA] poderá suspender o Serviço ou proceder a 
+interrupções temporárias e modificações no Serviço, decorrentes de correcções de problemas de 
+software, aperfeiçoamentos de funcionalidades, melhorias gerais ou mesmo versões completamente 
+novas do Serviço, com o intuito de melhorar a prestação do mesmo, visando assim a máxima satisfação 
+e benefício para o Utilizador.
+
+5.2.	A [NOME DA EMPRESA] empregará os seus melhores esforços para minimizar o tempo de suspensão 
+do acesso ao Serviço em resultado das modificações mencionadas no número anterior.
+
+5.3.	A [NOME DA EMPRESA] reserva-se o direito de, em qualquer momento, descontinuar, 
+temporariamente ou permanentemente, o Serviço, devendo assegurar um aviso prévio adequado e o 
+reembolso ao Utilizador do montante do pagamento efectuado correspondente à parcela do Serviço que 
+não foi prestada.
+
+6.	Cancelamento do Serviço
+
+6.1.	 O Utilizador poderá cancelar o Serviço,  a todo o tempo, através do envio de uma 
+comunicação, por correio electrónico, para [EMAIL CANCELAMENTO], solicitando a desactivação da respectiva conta.
+
+6.2.	Após o cancelamento do Serviço pelo Utilizador, o conteúdo da conta será imediatamente 
+apagado e a informação e conteúdo em memória/ guardado/ mantido não pode ser recuperado.
+
+6.3.	O cancelamento do Serviço terá efeito 10 dias após a recepção do pedido, devendo o 
+Utilizador pagar todas as facturas que se vençam durante esse período.
+
+6.4.	A [NOME DA EMPRESA], com fundamento em mora imputável ao Utilizador, tem o direito de 
+suspender a conta de qualquer Utilizador e recusar todo e qualquer uso do Serviço, actual ou 
+futuro, ou qualquer outro serviço fornecido pela [NOME DA EMPRESA].
+
+6.5.	A mora por período superior a 30 dias ou o incumprimento definitivo dos presentes Termos de 
+Utilização pelo Utilizador confere à [NOME DA EMPRESA] o direito a desactivar e/ou a suprimir 
+definitivamente a conta do Utilizador.
+
+7.	Direitos de propriedade intelectual
+
+7.1.	Todos os direitos de propriedade intelectual, designadamente direitos de propriedade 
+industrial e direitos de autor e conexos sobre o Serviço, incluindo quaisquer conteúdos ou 
+funcionalidades do mesmo, são da titularidade da [NOME DA EMPRESA], cabendo-lhe o direito exclusivo 
+de dispor, fruir e utilizar o Serviço da forma que entender. 
+
+7.2.	A [NOME DA EMPRESA] não reivindica quaisquer direitos de propriedade intelectual sobre 
+quaisquer materiais e conteúdos inseridos pelo Utilizador no Serviço. 
+
+8.	Política de privacidade
+A utilização do Serviço está sujeita à “Política de Privacidade” da [NOME DA EMPRESA], disponível 
+para consulta em www.[URL PRIVACIDADE]. 
+
+9.	Limitação da responsabilidade
+
+9.1.	O Utilizador reconhece que a [NOME DA EMPRESA] não será responsável, salvo em caso de dolo 
+ou culpa grave, por quaisquer danos resultantes da utilização do Serviço.
+
+9.2.	O Utilizador obriga-se a isentar e indemnizar a [NOME DA EMPRESA] de todas as eventuais 
+responsabilidades, danos, perdas, despesas, custos e reclamações, relacionados com: (i) a 
+utilização que fizer do Serviço e dos respectivos conteúdos e funcionalidades; (ii) o incumprimento 
+dos presentes Termos de Utilização; e com (iii) a violação de quaisquer direitos de terceiros, 
+incluindo, sem limitação, direitos de propriedade intelectual,  na utilização do Serviço e na 
+gestão da respectiva conta. 
+
+10.	Alteração aos Termos de Utilização
+
+10.1.	A [NOME DA EMPRESA] reserva-se o direito de, a todo o tempo, introduzir alterações aos 
+Termos de Utilização, informando previamente o Utilizador com uma antecedência de 30 dias.
+
+10.2.	Caso o Utilizador não concorde com as referidas alterações, deverá cancelar a conta 
+imediatamente e cessar a utilização do Serviço.
+
+10.3.	A versão mais actualizada dos Termos de Utilização estará disponível para consulta, a todo 
+o tempo, em www.[URL TOS], devendo a [NOME DA EMPRESA] arquivar as sucessivas versões dos Termos de 
+Utilização.
+
+10.4.	Qualquer funcionalidade nova que melhore ou aperfeiçoe o Serviço ficará sujeita às 
+condições estabelecidas nestes Termos de Utilização.
+
+10.5.	O uso continuado do Serviço por parte do Utilizador após a introdução de quaisquer 
+alterações pela [NOME DA EMPRESA], constitui consentimento tácito a tais mudanças.
+
+10.6.	Quaisquer questões relacionadas com estes Termos de Utilização devem ser endereçadas a [EMAIL].
+
+11.	Idioma, lei aplicável e jurisdição. 
+
+11.1.	Os Termos de Utilização são redigidos em língua portuguesa. 
+
+11.2.	Os presentes Termos de Utilização são regulados pela lei portuguesa.
+
+11.3.	Para a resolução de quaisquer litígios emergente da execução, inexecução, incumprimento, 
+interpretação ou integração dos presentes Termos de Utilização será competente o foro da Comarca de 
+[COMARCA], com expressa renúncia de qualquer outro, salvo diferente disposição legal imperativa.
+
